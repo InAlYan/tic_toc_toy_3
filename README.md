@@ -23,7 +23,10 @@
 
 ---
 ![remote repository add](img/5_git_remote_add.png "remote repository add")
-![commit readme](img/6_git_commit_readme.png "commit readme")
-
 ---
-
+![commit readme](img/6_git_commit_readme.png "commit readme")
+---
+![fetch](img/7_git_fetch.png "fetch")
+---
+![pull](img/8_git_pull.png "pull")
+---
