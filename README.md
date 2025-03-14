@@ -30,3 +30,7 @@
 ---
 ![pull](img/8_git_pull.png "pull")
 ---
+![push to remote](img/9_git_push_to_remote.png "push to remote")
+---
+![in remote repository](img/10_in_remote_repository.png "in remote repository")
+---
